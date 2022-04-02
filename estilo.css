@@ -1,5 +1,14 @@
 body
 {
+    color: blueviolet;
     text-align: center;
     font-family: "Arial";
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    margin: 0;
+    border: 1px;
 }
