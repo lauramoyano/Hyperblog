@@ -4,6 +4,21 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#cabecera
+{
+    background:#ee82ee;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    background:#ee82ee;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
